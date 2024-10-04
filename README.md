@@ -1,2 +1,2 @@
 # fedkan
-A federated version of Kolmogorov-Arnold Networks (KANs)
+An evaluation of federated Kolmogorov-Arnold Networks (KANs)
